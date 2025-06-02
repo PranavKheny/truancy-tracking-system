@@ -1,2 +1,2 @@
-# truancy-tracking-system
-Truancy Tracking System: A Python Tkinter app for automating truancy data tracking with Excel integration.
+# Excel-DB-Manager
+This repo contains the python scripts and other components for processing Progress Book's Absence Summary PDFs and updating an Excel database to track truancy. 
