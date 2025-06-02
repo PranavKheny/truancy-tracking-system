@@ -30,8 +30,3 @@ A Python-based desktop application that automates the process of importing truan
 - Nick Cyranek
 - Victor Stettler
 - Camron Vonner
-
-## 📂 Repository Structure
-
-
-
